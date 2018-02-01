@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "id": 2,
+      "title": "Introducton to Python",
+      "authorId": {
+        "name": "Wudtichai Karun"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Wudtichai Karun"
+    },
+    {
+      "id": 2,
+      "name": "Piya Pomkum"
+    }
+  ],
+  "comments": []
+}
